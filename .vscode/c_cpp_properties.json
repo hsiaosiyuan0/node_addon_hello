@@ -4,8 +4,7 @@
       "name": "Mac",
       "includePath": [
         "${workspaceFolder}/**",
-        "${workspaceFolder}/node_modules/**",
-        "~/.nvm/versions/node/v14.15.1/include/node"
+        "/Users/hsiao/.nvm/versions/node/v14.15.1/include/node"
       ],
       "defines": [],
       "macFrameworkPath": [
